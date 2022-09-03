@@ -4,14 +4,7 @@ jwt:
   secret_key: my-very-secret-keymy-very-secret-keymy-very-secret-keymy-very-secret-keymy-very-secret-key
 
 gateway:
-  ip: 127.0.0.1
-
-spring:
-  rabbitmq:
-    host: 192.168.0.24
-    port: 5672
-    username: guest
-    password: guest
+  ip: 3.37.155.50
 
 management:
   endpoints:
